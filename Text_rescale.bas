@@ -9,8 +9,8 @@ Dim sr As ShapeRange
 Dim s As Shape
 
 'define the vertical scaling percentage
-vert_scale_pctg = InputBox("Vertical rescale in percentages")
-hor_scale_pctg = InputBox("Horizontal rescale in percentages")
+    vert_scale_pctg = InputBox("Vertical rescale in percentages you applied to your picture")
+    hor_scale_pctg = InputBox("Horizontal rescale in percentages you applied to your picture")
 'set shape range to the active selection
 Set sr = ActiveSelectionRange
 
