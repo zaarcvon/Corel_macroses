@@ -5,6 +5,7 @@ This small script allow you to get text size and proportions back to the origina
 
 How to use:
 1.download Text_rescale.bas
+
 2.press Alt+F11 in a Corel
 
 3.Import script
