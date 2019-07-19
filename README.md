@@ -16,6 +16,9 @@ This small script allow you to get text size and proportions back to the origina
 
 2.xy from shape.bas
 Script for extracting coordinates of each node of the curve. It is useful for extract well curves from .cdr format to .las
+
+	How to use:
+	
 	1. Select one curve you want to extract nodes values
 	2. Run script:		
 	      Press F5 in a Microsoft Visual Basic window
