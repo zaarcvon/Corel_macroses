@@ -26,6 +26,7 @@ Script for extracting coordinates of each node of the curve. It is useful for ex
 
       
 How to add script to Corel:
+
 	1.download script
 
 	2.press Alt+F11 in a Corel
