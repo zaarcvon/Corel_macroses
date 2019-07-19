@@ -1,5 +1,5 @@
 Sub GetMyNodePosition()
-    myFile = "C:\data\MP3.csv"
+    myFile = InputBox("Output file name and dir")
     Open myFile For Output As #1
     Dim s As Shape, n As Node
     Dim sh As Shape
